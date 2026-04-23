@@ -1,5 +1,8 @@
 # Ubuntu_Server_Hardening English
 
+## What is Hardening?
+Hardening is the process of establishing a minimun level of security. It involves securing different components such as the file system, user accounts, services, software updates, etc. This process follows recognized best practices and standards defined by worldwide organizations, such as ISO/IEC 27001 and ISO/IEC 27002.
+
 ## Introduction
 This proyect explains how to configure an Ubuntu Server VM (v24.04 LTS) to enhance security across all systems layers. The lab environment is deployed on VMware WorkStation, running on a Windows 11 host system.
 
