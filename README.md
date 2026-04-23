@@ -25,7 +25,7 @@ A noon-root user is created to perform administrative tasks.
 ## SSH Configuration
 The first step is to configure SSH Key-based authentication by adding the public key to the server. This improves security by removing the need for password-based.
 
-To generate a Pair of keys we have to run the following command on the client machine:
+To generate a Key Pair, run the following command on the client machine:
 ssh-keygen -t ed25519
 
 Copy the public key to the server:
