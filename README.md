@@ -1,4 +1,4 @@
-# Ubuntu_Server_Hardening
+# Ubuntu_Server_Hardening English
 
 ## Introduction
 This proyect explains how to configure an Ubuntu Server VM (v24.04 LTS) to enhance security across all systems layers. The lab environment is deployed on VMware WorkStation, running on a Windows 11 host system.
