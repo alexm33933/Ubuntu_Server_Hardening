@@ -31,6 +31,14 @@ ssh-keygen -t ed25519
 Copy the public key to the server:
 ssh-copy-id user@server_ip
 
+## Boot configuration
+
+- GRUB Password
+grub-mkpasswd-pbkdf2 to create a password
+<img width="944" height="183" alt="image" src="https://github.com/user-attachments/assets/666bf499-d9b1-4ba3-ab45-133a6a287051" />
+
+
+
 # Ubuntu_Server_Hardening Español
 
 
