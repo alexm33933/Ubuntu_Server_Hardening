@@ -28,6 +28,7 @@ ssh-keygen -t ed25519
 Copy the public key to the server:
 ssh-copy-id user@server_ip
 
+# Ubuntu_Server_Hardening Español
 
 
 
